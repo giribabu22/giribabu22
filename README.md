@@ -4,11 +4,11 @@
 &nbsp;***About me ....***
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-✔ Known as: ***giribabu*** <br>
-✔ 🔭 I’m currently learning Software Developer Courses.<br>
+✔ Known as: ***Giri babu(prem)*** <br>
+✔ 🔭 I’m currently working as a Software Developer at Navgurukul.<br>
 ✔ 🌱 But my learning is near to **everything 😃**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/giribabu22](https://github.com/giribabu22)<br>
-✔ Ask from me anything you want, If I am alive I will definitely answer 😉<br>
+✔ Ask me anything you want, If I am alive I will definitely answer 😉<br>
 ✔ Fun fact : *I Always try to learn something new and I make the day new for me, for the past.* 😎<br><br><br><br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
