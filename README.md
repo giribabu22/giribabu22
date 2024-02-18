@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273-f08c-4006-9e59-129986fc0a4b" width="40"/>
+        <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273" width="40"/>
       </a>
       <br>Flutter
     </td>
