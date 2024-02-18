@@ -33,6 +33,24 @@
     </td>
     <td align="center" width="96">
       <a>
+        <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273-f08c-4006-9e59-129986fc0a4b" width="40"/>
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273-f08c-4006-9e59-129986fc0a4b" width="40"/>
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273-f08c-4006-9e59-129986fc0a4b" width="40"/>
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
       </a>
       <br>NodeJS
