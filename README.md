@@ -38,20 +38,20 @@
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://png.pngtree.com/png-clipart/20220909/original/pngtree-flutter-logo-icon-png-image_8504857.png" width="40"/>
+      <a> 
+        <img src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" width="40"/>
       </a>
       <br>Dart
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273-f08c-4006-9e59-129986fc0a4b" width="40"/>
+        <img src="https://png.pngtree.com/png-clipart/20220909/original/pngtree-flutter-logo-icon-png-image_8504857.png" width="40"/>
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+        <img src="https://image.pngaaa.com/681/876681-middle.png" width="40"/>
       </a>
       <br>NodeJS
     </td>
