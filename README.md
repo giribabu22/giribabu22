@@ -33,27 +33,27 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273" width="40"/>
+        <img src="https://www.liblogo.com/img-logo/no6273n057-node-js-logo-nodejs-transparent-logo-google-search.png" width="40"/>
       </a>
-      <br>Flutter
+      <br>Node JS
     </td>
     <td align="center" width="96">
       <a> 
         <img src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" width="40"/>
       </a>
-      <br>Dart
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://png.pngtree.com/png-clipart/20220909/original/pngtree-flutter-logo-icon-png-image_8504857.png" width="40"/>
       </a>
-      <br>AWS
+      <br>Dart
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://image.pngaaa.com/681/876681-middle.png" width="40"/>
       </a>
-      <br>NodeJS
+      <br>AWS
     </td>
     <td align="center" width="96">
       <a>
