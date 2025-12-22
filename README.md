@@ -9,7 +9,7 @@
 &nbsp;***About Me***  
 
 ✔ Known as: ***Giri Babu (Prem)*** <br>
-✔ 🔭 Currently working as a **Software Developer at Navgurukul** <br>
+✔ 🔭 Currently working as a **Software Developer at Sparquer** <br>
 ✔ 🌱 My learning goal: **“Everything!” 😃** <br>
 ✔ 👨‍💻 Check out all my projects here: **[github.com/giribabu22](https://github.com/giribabu22)** <br>
 ✔ 💼 I have **3 years of experience** as a **Backend Developer, Full-Stack Developer, and AWS Developer** <br>
